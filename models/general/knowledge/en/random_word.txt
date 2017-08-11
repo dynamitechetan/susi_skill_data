@@ -4,7 +4,7 @@
 ::description A skill to give a random word.
 ::dynamic_content Yes
 ::developer_privacy_policy
-::image images/random_word.png
+::image images/random_ABC_word.png
 ::terms_of_use
 
 give me a random word|Tell me a random word|Suggest me a random word|Random word
