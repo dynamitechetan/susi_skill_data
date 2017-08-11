@@ -1,0 +1,1 @@
+::name Domain Check ::author Uday Theja ::author_url https://github.com/uday96 ::description A skill to check if a domain is a valid one for a mailing address or emailID  ::dynamic_content Yes ::developer_privacy_policy ::image images/heck.png ::terms_of_use
